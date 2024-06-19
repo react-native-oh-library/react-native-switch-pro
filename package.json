@@ -12,7 +12,8 @@
   },
   "dependencies": {
     "deprecated-react-native-prop-types": "^5.0.0",
-    "prop-types": "^15.5.10"
+    "prop-types": "^15.5.10",
+    "react-native-switch-pro": "^1.0.5"
   },
   "harmony": {
     "alias": "react-native-switch-pro"
