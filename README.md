@@ -1,4 +1,4 @@
-# @react-native-oh-tpl/react-native-switch-pro
+# @react-native-ohos/react-native-switch-pro
 
 This project is based on [react-native-switch-pro](https://github.com/poberwong/react-native-switch-pro)
 

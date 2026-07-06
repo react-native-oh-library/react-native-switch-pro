@@ -1,6 +1,6 @@
 {
-  "name": "@react-native-oh-tpl/react-native-switch-pro",
-  "version": "1.0.5-0.0.1",
+  "name": "@react-native-ohos/react-native-switch-pro",
+  "version": "1.0.6",
   "description": "an universal switcher for andriod and iOS",
   "main": "lib/index.js",
   "scripts": {
